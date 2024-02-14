@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  13 FEB 2024 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.5)  14 FEB 2024 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1476,38 +1476,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--186
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--189
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
-
- []
-
-
-Underfull \hbox (badness 7133) in paragraph at lines 197--198
-[]\OT1/txr/m/n/12 The ROC can-not con-tain any poles.By
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 197--198
-\OT1/txr/m/n/12 Since $\OML/txmi/m/it/12 X []$ \OT1/txr/m/n/12 must be fi-nite 
-for all $\OML/txmi/m/it/12 z$ \OT1/txr/m/n/12 for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 195--203
 
  []
 
@@ -1517,22 +1491,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--206
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--209
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--211
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Underfull \hbox (badness 10000) in paragraph at lines 210--212
 
  []
 
@@ -1540,20 +1509,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2
-
 ] (./1.aux)
 Package rerunfilecheck Info: File `1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 47435 strings out of 476025
- 1106178 string characters out of 5790018
- 1877388 words of memory out of 5000000
+ 47427 strings out of 476025
+ 1106124 string characters out of 5790018
+ 1875388 words of memory out of 5000000
  67149 multiletter control sequences out of 15000+600000
  569536 words of font info for 145 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 101i,12n,96p,1169b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,12n,96p,1169b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texliv
@@ -1561,10 +1528,10 @@ e/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on 1.pdf (2 pages, 47973 bytes).
+Output written on 1.pdf (1 page, 47191 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

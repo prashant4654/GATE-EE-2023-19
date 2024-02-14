@@ -185,22 +185,19 @@ Which one of the following statements is TRUE?
      \item Discrete time Fourier transform of $x\sbrak{n}$ converges if $R$ is such that $x\sbrak{n}$is a right-sided sequence.\\
 \end{enumerate} \hfill{GATE EE 2023}\\
 \textbf{Solution: }\\
-\begin{enumerate}
-    \item The Z-transform of a sequence is defined as:
+The Z-transform of a sequence is defined as:
 \begin{align}
 X(z) = \sum_{n=-\infty}^{\infty} x[n]z^{-n}
 \end{align}
-    \item The ROC for a given  $x\sbrak{n}$ , is defined as the range of  $z$ for which the Z-transform converges.\\
+The ROC for a given  $x\sbrak{n}$ , is defined as the range of  $z$ for which the Z-transform converges.\\
 \begin{align}
 \sum_{n=-\infty}^{\infty} |x\sbrak{n}z^{-n}| < \infty
 \end{align}
-    \item The ROC cannot contain any poles.By definition a pole is a where  $X\brak{z}$ is infinite. Since  $X\brak{z}$ must be finite for all  $z$ for convergence, there cannot be a pole in the ROC\\
-    \item If  $x\sbrak{n}$ is a finite-duration sequence, then the ROC is the entire z-plane, except possibly  $z=0$ or $|z|=\infty$.\\
- .  \item If  $x\sbrak{n}$ is a right-sided sequence, then the ROC extends outward from the outermost pole in  X\brak{z}. \\
-    \item If $x\sbrak{n}$ is a left-sided sequence, then the ROC extends inward from the innermost pole in  X\brak{z}.\\
-    \item If $x\sbrak{n}$ is a two-sided sequence, the ROC will be a ring in the z-plane that is bounded on the interior and exterior by a pole.
-\end{enumerate}
- \medskip
+The ROC cannot contain any poles.By definition a pole is a where  $X\brak{z}$ is infinite. Since  $X\brak{z}$ must be finite for all  $z$ for convergence, there cannot be a pole in the ROC\\
+If  $x\sbrak{n}$ is a finite-duration sequence, then the ROC is the entire z-plane, except possibly  $z=0$ or $|z|=\infty$.\\
+If  $x\sbrak{n}$ is a right-sided sequence, then the ROC extends outward from the outermost pole in  X\brak{z}. \\
+If $x\sbrak{n}$ is a left-sided sequence, then the ROC extends inward from the innermost pole in  X\brak{z}.\\
+If $x\sbrak{n}$ is a two-sided sequence, the ROC will be a ring in the z-plane that is bounded on the interior and exterior by a pole.\\
   Poles of $X\brak{z}$ are located at $z = \dfrac{1}{5}$, $z = \dfrac{2}{3}$, and $z = 3$. \\
   For DTFT to converge, the ROC of Z-transform of $x\sbrak{n}$  should contain unit circle.\\
  \begin{enumerate}[label={(\alph*)}]
